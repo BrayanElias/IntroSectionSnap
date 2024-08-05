@@ -3,14 +3,14 @@ const BarraNav = () => {
     return (
         <>
             <div className="flex gap-12 pl-5">
-                <img className="pt-5 md:pt-0" src="/public/images/logo.svg" alt="Logo Snap" />
+                <img className="pt-5 md:pt-0" src="/images/logo.svg" alt="Logo Snap" />
                 <div className="hidden md:flex">
                     <ul className="flex gap-9">
                         <li className="flex items-center gap-1">
-                            Features<img className="pt-1" src="/public/images/icon-arrow-down.svg" alt="" />
+                            Features<img className="pt-1" src="/images/icon-arrow-down.svg" alt="" />
                         </li>
                         <li className="flex items-center gap-1">
-                            Company<img className="pt-1" src="/public/images/icon-arrow-down.svg" alt="" />
+                            Company<img className="pt-1" src="/images/icon-arrow-down.svg" alt="" />
                         </li>
                         <li>Careers</li>
                         <li>About</li>

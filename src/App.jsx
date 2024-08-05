@@ -18,14 +18,14 @@ function App() {
                 Learn more
               </button>
               <div className="flex gap-7 md:mt-28 my-16 md:w-full px-5 items-center w-[107px]">
-                <img className="object-contain" src="/public/images/client-databiz.svg" alt="" />
-                <img className="object-contain" src="/public/images/client-audiophile.svg" alt="" />
-                <img className="object-contain" src="/public/images/client-meet.svg" alt="" />
-                <img className="object-contain" src="/public/images/client-maker.svg" alt="" />
+                <img className="object-contain" src="/images/client-databiz.svg" alt="" />
+                <img className="object-contain" src="/images/client-audiophile.svg" alt="" />
+                <img className="object-contain" src="/images/client-meet.svg" alt="" />
+                <img className="object-contain" src="/images/client-maker.svg" alt="" />
               </div>
             </div>
             <div className="w-full md:ml-7 md:mb-20">
-              <img src="/public/images/image-hero-desktop.png" alt="" />
+              <img src="/images/image-hero-desktop.png" alt="" />
             </div>
           </div>
         </body>

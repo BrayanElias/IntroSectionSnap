@@ -22,7 +22,7 @@ const BarraNav = () => {
                 <button className="border border-black rounded-2xl px-5 py-2">Register</button>
             </div>
             <div className="md:hidden pt-3">
-                <img className="w-12" src="/src/images/icon-menu.svg" alt="" />
+                <img className="w-12" src="/images/icon-menu.svg" alt="" />
             </div>
         </>
     )

@@ -1,8 +1,8 @@
 # IntroSectionSnap
+![mobile-design](https://github.com/user-attachments/assets/1d3f6ab5-e05b-45ad-9ac6-f3dabebe1d29) ![mobile-menu-collapsed](https://github.com/user-attachments/assets/b1b7033b-4b4b-48c3-ba4a-f5e67a063b32)
+![desktop-design](https://github.com/user-attachments/assets/8cd69389-8eb0-47b1-a515-cd1af79a5bc3)
 
-  <img src="https://github.com/user-attachments/assets/53940bcd-ddc3-4a90-bf56-390f7cfce584" alt="mobile-design" width="50%" style="margin-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/dca80dc9-6acd-4689-a5df-04ec7a31a59f" alt="mobile-menu-expanded" width="50%" style="margin-left: 20px;">
-  <img src="https://github.com/user-attachments/assets/d871a26c-ece1-4522-86cc-774478751de4" alt="mobile-menu-expanded" width="50%" style="margin-left: 20px;">
+
 
 
 
